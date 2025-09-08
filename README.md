@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=villerotjustin" alt="villerotjustin" /></a> </p>
 
-- 🔭 I’m currently working on [Optic Chambers](https://github.com/VillerotJustinOrg/Optic-Chambers)
+- 🔭 I’m currently studying at Gamagora
 
 - 🌱 I’m currently learning **OpenGL**
-
-- 🤝 I’m looking for help with [Project Demiurge](https://github.com/Nepheshria/Project-Demiurge)
 
 - 💬 Ask me about **My projects**
 
