@@ -1,108 +1,91 @@
-<h1 align="center">Hi 👋, I'm Villerot Justin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=villerotjustin&label=Profile%20views&color=0e75b6&style=flat" alt="villerotjustin" /> </p>
+# Hi 👋, I'm Villerot Justin
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=villerotjustin" alt="villerotjustin" /></a> </p>
+<link rel="stylesheet" href="README.css">
+
+[![Profile views](https://komarev.com/ghpvc/?username=villerotjustin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/villerotjustin)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=villerotjustin)](https://github.com/ryo-ma/github-profile-trophy)
+
+Backend-focused developer and Gamagora student. I work with C++, game engines, or web dev and enjoy building reliable, software and developer tools.
 
 - 🔭 I’m currently studying at Gamagora
 
-- 🌱 🌱 I’m currently improving my skills in *C++*
+- 🌱 Learning: C++ and clean architecture
 
 - 💬 Ask me about **My projects**
 
-- 📫 How to reach me **justinvillerot@gmail.com**
+- 📫 How to reach me **<justinvillerot@gmail.com>**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/justin villerot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin villerot" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+## What I build / Focus
 
-<div align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-</div>
+- Small games with (Godot, Unreal, Unity)
+- Small tooling & automation (Python, shell)
+- Web app, backend API,...
+- TTRPG, FoundryVTT extension
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=villerotjustin&show_icons=true&locale=en&layout=compact" alt="villerotjustin" /></p>
+## Skills and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=villerotjustin&show_icons=true&locale=en" alt="villerotjustin" /></p>
+### Programing languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villerotjustin&" alt="villerotjustin" /></p>
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![GD Script](https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+![Ruby](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg)
 
+### Frameworks & Engines & OS
+
+**Frameworks**
+![Wordpress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg)
+![Qt](https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg)
+![Ruby on Rails](https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg)
+![VueJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg)
+
+**Engines**
+![Godot](https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg)
+![Unity](https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg)
+![Unreal](https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg)
+
+**OS**
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg)
+
+### Tools
+
+![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)
+
+---
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=villerotjustin&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=villerotjustin&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=villerotjustin)
+
+---
+
+## Connect
+
+- Email: [justinvillerot@gmail.com](mailto:justinvillerot@gmail.com)  
+- LinkedIn: <https://linkedin.com/in/justinvillerot>
+
+Thanks for visiting — feel free to open an issue or PR if you want to collaborate or suggest improvements to this profile README.
