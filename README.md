@@ -73,12 +73,6 @@ Backend-focused developer and Gamagora student. I work with C++, game engines, o
    height="40"
   />
   <img
-   alt="Bootstrap"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-   width="40"
-   height="40"
-  />
-  <img
    alt="Java"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
    width="40"
@@ -143,6 +137,12 @@ Backend-focused developer and Gamagora student. I work with C++, game engines, o
     width="40"
     height="40"
   >
+  <img
+   alt="Bootstrap"
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+   width="40"
+   height="40"
+  />
   <img
     alt="Ruby on Rails"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
