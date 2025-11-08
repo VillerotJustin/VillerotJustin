@@ -1,6 +1,43 @@
 # Hi 👋, I'm Villerot Justin
 
-<link rel="stylesheet" href="README.css">
+<style>
+img[alt="C"] { width: 40px; height: 40px; }
+img[alt="C++"] { width: 40px; height: 40px; }
+img[alt="C#"] { width: 40px; height: 40px; }
+img[alt="Python"] { width: 40px; height: 40px; }
+img[alt="GD Script"] { width: 40px; height: 40px; }
+img[alt="HTML5"] { width: 40px; height: 40px; }
+img[alt="CSS"] { width: 40px; height: 40px; }
+img[alt="Java"] { width: 40px; height: 40px; }
+img[alt="JavaScript"] { width: 40px; height: 40px; }
+img[alt="PHP"] { width: 40px; height: 40px; }
+img[alt="Ruby"] { width: 40px; height: 40px; }
+
+/* Frameworks */
+img[alt="Node.js"] { width: 40px; height: 40px; }
+img[alt="Bootstrap"] { width: 40px; height: 40px; }
+img[alt="Wordpress"] { width: 40px; height: 40px; }
+img[alt="Qt"] { width: 40px; height: 40px; }
+img[alt="Ruby on Rails"] { width: 40px; height: 40px; }
+img[alt="VueJS"] { width: 40px; height: 40px; }
+img[alt="React Native"] { width: 40px; height: 40px; }
+img[alt="React"] { width: 40px; height: 40px; }
+
+/* Engines */
+img[alt="Godot"] { width: 40px; height: 40px; }
+img[alt="Unity"] { width: 40px; height: 40px; }
+img[alt="Unreal"] { width: 40px; height: 40px; }
+
+/* Operating Systems */
+img[alt="Linux"] { width: 40px; height: 40px; }
+img[alt="Windows"] { width: 40px; height: 40px; }
+
+/* Tools */
+img[alt="Arduino"] { width: 40px; height: 40px; }
+img[alt="Git"] { width: 40px; height: 40px; }
+img[alt="Docker"] { width: 40px; height: 40px; }
+img[alt="Postman"] { width: 40px; height: 40px; }
+</style>
 
 [![Profile views](https://komarev.com/ghpvc/?username=villerotjustin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/villerotjustin)
 
