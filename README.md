@@ -4,7 +4,8 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=villerotjustin)](https://github.com/ryo-ma/github-profile-trophy)
 
-Backend-focused developer and Gamagora student. I work with C++, game engines, or web dev and enjoy building reliable, software and developer tools.
+Backend-focused developer and Gamagora student. I work with C++, game engines,
+or web dev and enjoy building reliable, software and developer tools.
 
 - 🔭 I’m currently studying at Gamagora
 
@@ -22,6 +23,16 @@ Backend-focused developer and Gamagora student. I work with C++, game engines, o
 - Small tooling & automation (Python, shell)
 - Web app, backend API,...
 - TTRPG, FoundryVTT extension
+
+---
+
+## Mon Portfolio
+
+You can find a .MD version of my portfolio here :
+
+[Portfolio](./Portfolio.md)
+
+And a PDF version is in construction.
 
 ---
 
